@@ -1,0 +1,66 @@
+﻿  TexturedModel.cpp
+c:\shogun\170518\openglopinho\project1\texturedmodel.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainTexturePack.cpp
+c:\shogun\170518\openglopinho\project1\modeltexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TerrainShader.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  TerrainRenderer.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Terrain.cpp
+c:\shogun\170518\openglopinho\project1\rawmodel.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ModelTexture.cpp
+c:\shogun\170518\openglopinho\project1\modeltexture.h(3): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  StaticMesh.cpp
+c:\shogun\170518\openglopinho\project1\staticmesh.cpp(3): fatal error C1083: Cannot open include file: 'assimp/postprocess.h': No such file or directory
+  SkyboxShader.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  SkyboxRenderer.cpp
+c:\shogun\170518\openglopinho\project1\camera.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Skybox.cpp
+  ShaderProgram.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Renderer.cpp
+c:\shogun\170518\openglopinho\project1\renderer.h(7): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  RawModel.cpp
+c:\shogun\170518\openglopinho\project1\rawmodel.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  ParticleTexture.cpp
+c:\shogun\170518\openglopinho\project1\debug.h(4): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  ParticleSystem.cpp
+c:\shogun\170518\openglopinho\project1\particle.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  ParticleShader.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  ParticleRenderer.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Particle.cpp
+c:\shogun\170518\openglopinho\project1\particle.h(2): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  OBJLoader.cpp
+c:\shogun\170518\openglopinho\project1\objloader.h(3): fatal error C1083: Cannot open include file: 'assimp\cimport.h': No such file or directory
+  Movie.cpp
+c:\shogun\170518\openglopinho\project1\movie.h(8): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
+  Compiling...
+  Mesh.cpp
+c:\shogun\170518\openglopinho\project1\mesh.h(5): fatal error C1083: Cannot open include file: 'assimp/scene.h': No such file or directory
+  Maths.cpp
+c:\shogun\170518\openglopinho\project1\maths.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  MasterRenderer.cpp
+c:\shogun\170518\openglopinho\project1\entity.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Main.cpp
+c:\shogun\170518\openglopinho\project1\main.cpp(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Loader.cpp
+c:\shogun\170518\openglopinho\project1\rawmodel.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GUITexture.cpp
+c:\shogun\170518\openglopinho\project1\guitexture.h(3): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GUIShader.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GUIRenderer.cpp
+c:\shogun\170518\openglopinho\project1\rawmodel.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  GameObjectTest.cpp
+c:\shogun\170518\openglopinho\project1\entity.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Entity.cpp
+c:\shogun\170518\openglopinho\project1\entity.h(2): fatal error C1083: Cannot open include file: 'glm\glm.hpp': No such file or directory
+  Game.cpp
+c:\shogun\170518\openglopinho\project1\game.h(2): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  AnimatedShader.cpp
+c:\shogun\170518\openglopinho\project1\shaderprogram.h(4): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Generating Code...
